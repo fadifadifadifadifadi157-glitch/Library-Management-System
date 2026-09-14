@@ -29,7 +29,8 @@ No external libraries or database are required.
 
 ```text
 Library-Management-System/
-└── main.py
+├── main.py
+└── README.md
 ```
 
 ## How the Program Works
@@ -260,6 +261,9 @@ Possible improvements include:
 GitHub repository:
 
 https://github.com/fadifadifadifadifadi157-glitch/Library-Management-System
+
+## Author
+**Fowad Ajmal**
 
 ## License
 
